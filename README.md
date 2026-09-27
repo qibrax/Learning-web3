@@ -1,10 +1,17 @@
-# learning-web3
+# Learning Web3 - My Journey
 
-Documenting my Web3 journey
+Hi, I'm Arowolo Oriyomi (qibrax) from Lagos, Nigeria.
+Community Manager @ TRSH | Aspiring Web3 & Full-stack Developer
 
-Currently learning:
-- Solidity + Smart Contracts
-- QA Testing for dApps  
-- AI Agents + RWA
+### Currently learning:
+- Blockchain fundamentals
+- Solidity & Smart Contracts
+- Community building for developers
 
-Follow along as I build in public 🚀
+### My Work:
+I manage a tech community at TRSH where I help developers learn and collaborate.
+
+### Connect with me:
+- Email: arowolooriyomi2006@gmail.com
+- Location: Lagos, Nigeria
+- Open to: Remote community & dev roles
